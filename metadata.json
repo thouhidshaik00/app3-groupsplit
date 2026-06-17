@@ -1,0 +1,6 @@
+{
+  "name": "GroupSplit",
+  "description": "Log shared expenses, support multi-user and group bill splitting, and dynamically calculate optimal debt settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
